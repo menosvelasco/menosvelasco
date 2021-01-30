@@ -3,9 +3,17 @@
 #### Software Developer
 
 
-I enjoy learning languages and frameworks like Javascrpt, React, python, and Django. I also enjoy HTML/CSS and design in general. 
+I enjoy learning languages and frameworks like Javascript, React, python, and Django. I also enjoy HTML/CSS and design in general. 
 
-Skills: REACT / JS / HTML / CSS / Python / Django
+## Skills and Experience 
+﹒REACT
+﹒JS
+﹒HTML
+﹒CSS
+﹒Python
+﹒Django
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Manuelv23752017)  
 
