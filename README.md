@@ -6,7 +6,6 @@ I'm Manuel Velasco, I enjoy learning languages and frameworks like Javascrpt, Re
 
 Skills: REACT / JS / HTML / CSS / Python / Django / Bootstrap
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Manuelv23752017)  
 
 
 
