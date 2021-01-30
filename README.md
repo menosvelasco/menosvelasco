@@ -10,6 +10,6 @@ Skills: REACT / JS / HTML / CSS / Python / Django
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=menosvelasco)](https://github.com/anuraghazra/github-readme-stats)
 
-
+https://github.com/menosvelasco/menosvelasco/blob/main/1_zkjRQ-O2YA04AP6XpT4BIQ.png
 
 
