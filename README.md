@@ -1,8 +1,8 @@
 ### Hi there 👋, Manuel Velasco
 #### Software Developer
-![Software Developer](https://alteridem.net/assets/img/2016/01/WriteCode.png)
 
-I'm Manuel Velasco, I enjoy learning languages and frameworks like Javascrpt, React, python, and Django. I also enjoy HTML/CSS and design in general. 
+
+I enjoy learning languages and frameworks like Javascrpt, React, python, and Django. I also enjoy HTML/CSS and design in general. 
 
 Skills: REACT / JS / HTML / CSS / Python / Django
 
@@ -13,6 +13,7 @@ Skills: REACT / JS / HTML / CSS / Python / Django
 
   
 
-
+![Software Developer](https://alteridem.net/assets/img/2016/01/WriteCode.png)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=menosvelasco)](https://github.com/anuraghazra/github-readme-stats)
+
