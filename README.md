@@ -1,4 +1,4 @@
-![](https://images.hdqwalls.com/download/get-back-to-code-km-1366x768.jpg)
+
 ### Hi there 👋, Manuel Velasco
 #### Software Developer
 
